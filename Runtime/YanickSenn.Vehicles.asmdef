@@ -1,0 +1,15 @@
+
+{
+    "name": "YanickSenn.Vehicles",
+    "rootNamespace": "YanickSenn.Vehicles",
+    "references": ["YanickSenn.Utils"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

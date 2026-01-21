@@ -1,0 +1,16 @@
+{
+  "name": "com.yanicksenn.vehicles",
+  "version": "1.0.1",
+  "displayName": "Vehicles",
+  "description": "This package contains basic logic around operating vehicles.",
+  "unity": "6000.0",
+  "unityRelease": "51f1",
+  "author": {
+    "name": "Yanick Senn",
+    "email": "info@yanicksenn.com",
+    "url": ""
+  },
+  "dependencies": {
+    "com.yanicksenn.utils": "https://github.com/yanicksenn/Unity-PKG-Utils.git#2.0.4"
+  }
+}

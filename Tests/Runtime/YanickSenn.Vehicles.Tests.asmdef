@@ -2,7 +2,7 @@
 {
     "name": "YanickSenn.Vehicles.Tests",
     "rootNamespace": "YanickSenn.Vehicles.Tests",
-    "references": ["YanickSenn.Vehicles", "UnityEngine.TestRunner", "UnityEditor.TestRunner"],
+    "references": ["YanickSenn.Vehicles", "UnityEngine.TestRunner", "UnityEditor.TestRunner", "YanickSenn.Utils"],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

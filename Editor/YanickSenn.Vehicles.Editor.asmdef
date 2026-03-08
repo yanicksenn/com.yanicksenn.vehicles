@@ -2,7 +2,7 @@
 {
     "name": "YanickSenn.Vehicles.Editor",
     "rootNamespace": "YanickSenn.Vehicles.Editor",
-    "references": ["YanickSenn.Vehicles"],
+    "references": ["YanickSenn.Vehicles", "YanickSenn.Utils"],
     "includePlatforms": ["Editor"],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
